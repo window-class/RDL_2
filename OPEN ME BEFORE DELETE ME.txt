@@ -1,0 +1,3 @@
+1. npx isomorphic-git clone --url https://github.com/window-class/RDL_2.git --dir RDL_2
+
+run this if you get crashed while running or registering.
